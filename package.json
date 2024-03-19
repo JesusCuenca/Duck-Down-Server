@@ -1,0 +1,25 @@
+{
+  "name": "duck_down_server",
+  "version": "1.0.0",
+  "description": "A collection of games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JesusCuenca/Duck-Down-Server.git"
+  },
+  "keywords": [
+    "games",
+    "multiplayer",
+    "duck",
+    "down"
+  ],
+  "author": "Jesus Cuenca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusCuenca/Duck-Down-Server/issues"
+  },
+  "homepage": "https://github.com/JesusCuenca/Duck-Down-Server#readme"
+}
